@@ -21,7 +21,7 @@
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![Python](https://img.shields.io/badge/Python-ED8B00?style=for-the-badge&logo=Python&logoColor=white)
-
+  ![CSS](https://img.shields.io/badge/CSS-%23323330.svg?style=for-the-badge&logo=css&logoColor=%23F7DF1E)
  
 - 💻 &nbsp; 
   ![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
