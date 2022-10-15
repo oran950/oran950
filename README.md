@@ -49,7 +49,7 @@
   
 
   
-![Oran's github stats](https://github-readme-stats.vercel.app/api?username=oran950&theme=vision-friendly-dark&hide=prs,issues,stars,contribs)
+[![Oran's GitHub stats](https://github-readme-stats.vercel.app/api?username=oran950)](https://github.com/oran950/github-readme-stats)
  
 
 ### 📝 Contact Me 
