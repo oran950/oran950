@@ -1,4 +1,4 @@
-##About Me
+#About Me
 ### Hi! 👋, I'm [Oran Ben David](https://github.com/oran950) 👨‍💻
 <img align="right" alt="GIF" height="130px" src="https://i.pinimg.com/564x/03/1f/67/031f67bd6b6bb0487eff63e804f63515.jpg">
 <br / >
