@@ -6,7 +6,7 @@
 💻About Me
 
 
-👨‍🎓I'm a Software Engineer studentt (3rd year)
+👨‍🎓I'm a Software Engineer studentt (4rd year)
 
 💪 I'm a self-taught, continuously searching for greater challenges and have great team and leadership abilities
 
